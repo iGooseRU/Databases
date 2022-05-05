@@ -1,7 +1,7 @@
 '''sql
-select 
+SELECT 
 	p.Name,
 	p.Color,
 	p.Size
-FROM Production.Product as p
+FROM Production.Product AS p
 '''
